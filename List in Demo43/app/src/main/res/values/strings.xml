@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List in Demo</string>
+    <string name="open_listview">Open Listview</string>
+    <string name="open_recycler_view">Open Recycler View</string>
+    <string name="quit">Quit</string>
+    <string name="hello_world">Hello World</string>
+</resources>
